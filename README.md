@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/7emotions/njusttimetable/actions">
-    <img src="https://github.com/7emotions/njusttimetable/actions/workflows/main.yml/badge.svg?branch=release" alt="CI Status">
+    <img src="https://github.com/7emotions/njusttimetable/actions/workflows/dev.yml/badge.svg" alt="CI Status">
 </a>
 
 <a href="https://7emotions.github.io/njusttimetable/">
